@@ -15,7 +15,7 @@ This Terraform project implements a multi-tier AWS infrastructure with the follo
 ---
 
 ## 🏗️ **Architecture Diagram**
-![image](https://github.com/user-attachments/assets/ea1dbc68-faf9-45ce-87e1-97f69f414c74)
+![image](https://github.com/user-attachments/assets/77a218eb-43bf-41fc-ba7b-32ff0760494f)
 
 ---
 
@@ -127,45 +127,47 @@ Additionally, a local file `server_ips.txt` is generated with all server IPs for
 
 - **VPC**
 
-![VPC](https://github.com/user-attachments/assets/dabc9920-42fc-43a4-aa08-ebcbebdb7ef0)
+![VPC](https://github.com/user-attachments/assets/a4135c45-9b05-4c2f-8d62-4c8db04bef2b)
 
 - **External Load Balancer**
 
-![External_LB](https://github.com/user-attachments/assets/30768450-7293-4c8c-a102-780f3e649be3)
+![External_LB](https://github.com/user-attachments/assets/4c939715-6769-4fe4-9116-cb99de583e9d)
 
 - **Internal Load Balancer**
 
-![Internal_LB](https://github.com/user-attachments/assets/5cf8a764-083f-4c43-8851-5b7605e42f14)
+![Internal_LB](https://github.com/user-attachments/assets/6a9f6a13-d758-4e83-9dc7-365fdc74ea68)
 
 - **S3 Bucket (Terraform State Storage)**
 
-![S3_Backet](https://github.com/user-attachments/assets/b66184b6-cee3-45c8-8320-52ad34ee90e7)
+![S3_Backet](https://github.com/user-attachments/assets/a8fc3ffa-79fa-4470-a08b-192e921e5e9d)
 
 - **EC2 Instances**
 
-![EC2](https://github.com/user-attachments/assets/c2d20125-4b92-432d-a702-2eb6e48d7eda)
+![EC2](https://github.com/user-attachments/assets/927e1299-8c5f-4232-90c2-10d9f3d97f29)
 
 - **Target_Groups**
 
-![Target_groups](https://github.com/user-attachments/assets/d6b55fe4-d911-43a4-871d-fbb15b964b5c)
+![Target_groups](https://github.com/user-attachments/assets/8c52960d-4bbc-4584-9be2-de31a0fe79e8)
 
 
 - **Security_Groups**
 
-![Sec_Groups](https://github.com/user-attachments/assets/576b9003-d44c-42b7-b312-7ee5864055f4)
+![Sec_Groups](https://github.com/user-attachments/assets/44e8a82c-cc13-48b8-9447-39a8675a9521)
 
 
 - **Testing with External Load Balancer DNS**
 
-https://github.com/user-attachments/assets/2d82a81c-aa3c-44a2-8257-8b0e4122f7ff
+
+https://github.com/user-attachments/assets/9b7937bb-99b4-4b33-9ed6-260255e7f952
+
 
 - **Testing with Server1 DNS**
 
-![server1](https://github.com/user-attachments/assets/c555525b-ae9d-4189-890f-5c08a876b829)
+![server1](https://github.com/user-attachments/assets/e5ad247c-58b0-4d95-9d97-7e77ca8910f1)
 
 - **Testing with Server2 DNS**
 
-![server2](https://github.com/user-attachments/assets/166ada90-24b6-4809-b2f3-d4c49b9d282f)
+![server2](https://github.com/user-attachments/assets/2b45dfed-a715-4480-a3a5-8f9c3dfb2873)
 
 ---
 
