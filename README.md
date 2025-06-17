@@ -15,7 +15,7 @@ This Terraform project implements a multi-tier AWS infrastructure with the follo
 ---
 
 ## 🏗️ **Architecture Diagram**
-![image](https://github.com/user-attachments/assets/77a218eb-43bf-41fc-ba7b-32ff0760494f)
+![0 drawio](https://github.com/user-attachments/assets/74d297bf-0ddc-4872-8c87-7a0188512200)
 
 ---
 
